@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: max-content;
+    background-image: url(./imagens/Tela_de_fundo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    width: 300px;
+    padding: 30px;
+}
+.sair{
+    color: aliceblue;
+    font-size: 30px;
+    position: absolute;
+    left: 1700px;
+    top: 40px;
+}
+.series{
+    color: aliceblue;
+    font-size: 30px;
+    position: absolute;
+    left: 1400px;
+    top: 40px;
+}
+.filmes{
+    color: aliceblue;
+    font-size: 30px;
+    position: absolute;
+    left: 1200px;
+    top: 40px;
+}
+.filmes__cards{
+    color: aliceblue;
+    font-size: 30px;
+    position: absolute;
+    left: 50px;
+    top: 180px;
+}
+.filme1{
+    width: 250px;
+    padding: 50px;
+    position: relative;
+    top: 75px;
+    transition: all 0.3s ease-out;
+}
+.series__cards{
+    color: aliceblue;
+    font-size: 30px;
+    position: absolute;
+    left: 50px;
+    top: 530px;
+}
+.serie1{
+    width: 250px;
+    padding: 50px;
+    position: relative;
+    top: 95px;
+    transition: all 0.3s ease-out;
+    
+}
+.filme2{
+    width: 255px;
+    padding: 50px;
+    position: relative;
+    top: 75px;
+    transition: all 0.3s ease-out;
+}
+.filme3{
+    width: 270px;
+    padding: 50px;
+    position: relative;
+    top: 75px;
+    transition: all 0.3s ease-out;
+}
