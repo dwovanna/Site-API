@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: max-content;
+    background-image: url(./imagens/Tela_de_fundo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    width: 300px;
+    padding: 30px;
+}
+.voltar{
+    color: aliceblue;
+    font-size: 30px;
+    position: absolute;
+    left: 1700px;
+    top: 40px;
+}
+.series{
+    color: aliceblue;
+    font-size: 30px;
+    position: absolute;
+    left: 1400px;
+    top: 40px;
+}
+.filmes{
+    color: aliceblue;
+    font-size: 30px;
+    position: absolute;
+    left: 1200px;
+    top: 40px;
+}
+.img__trailer{
+    width: 800px;
+    position: relative;
+    top: 50px;
+    left: 500px;
+    border-radius: 50px;
+    border-color: aliceblue;
+}
+.descricao{
+    color: aliceblue;
+    font-size: 30px;
+    position: relative;
+    top: 80px;
+    left: 380px;
+
+    
+    
+}

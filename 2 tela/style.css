@@ -14,7 +14,7 @@ body{
     width: 300px;
     padding: 30px;
 }
-.sair{
+.voltar{
     color: aliceblue;
     font-size: 30px;
     position: absolute;
@@ -42,13 +42,7 @@ body{
     left: 50px;
     top: 180px;
 }
-.filme1{
-    width: 250px;
-    padding: 50px;
-    position: relative;
-    top: 75px;
-    transition: all 0.3s ease-out;
-}
+
 .series__cards{
     color: aliceblue;
     font-size: 30px;
@@ -64,11 +58,85 @@ body{
     transition: all 0.3s ease-out;
     
 }
-.filme2{
-    width: 255px;
+.serie2{
+    width: 250px;
+    padding: 50px;
+    position: relative;
+    top: 95px;
+    left: -50px;
+    transition: all 0.3s ease-out;
+
+}
+.serie3{
+    width: 260px;
+    padding: 50px;
+    position: relative;
+    top: 95px;
+    left: -100px;
+    transition: all 0.3s ease-out;
+}
+.serie4{
+    width: 270px;
+    padding: 50px;
+    position: relative;
+    top: 95px;
+    left: -150px;
+    transition: all 0.3s ease-out;
+}
+.serie5{
+    width: 250px;
+    padding: 50px;
+    position: relative;
+    top: 95px;
+    left: -200px;
+    transition: all 0.3s ease-out;
+}
+.serie6{
+    width: 250px;
+    padding: 50px;
+    position: relative;
+    top: 95px;
+    left: -250px;
+    transition: all 0.3s ease-out;
+}
+.serie7{
+    width: 260px;
+    padding: 50px;
+    position: relative;
+    top: 95px;
+    left: -300px;
+    transition: all 0.3s ease-out;
+}
+.serie8{
+    width: 270px;
+    padding: 50px;
+    position: relative;
+    top: 95px;
+    left: -355px;
+    transition: all 0.3s ease-out;
+}
+.serie9{
+    width: 250px;
+    padding: 50px;
+    position: relative;
+    top: 95px;
+    left: -420px;
+    transition: all 0.3s ease-out;
+}
+.filme1{
+    width: 250px;
     padding: 50px;
     position: relative;
     top: 75px;
+    transition: all 0.3s ease-out;
+}
+
+.filme2{
+    width: 260px;
+    padding: 50px;
+    position: relative;
+    top: 75px;
+    left: -50px;
     transition: all 0.3s ease-out;
 }
 .filme3{
@@ -76,5 +144,54 @@ body{
     padding: 50px;
     position: relative;
     top: 75px;
+    left: -100px;
+    transition: all 0.3s ease-out;
+}
+.filme4{
+    width: 250px;
+    padding: 50px;
+    position: relative;
+    top: 75px;
+    left: -150px;
+    transition: all 0.3s ease-out;
+}
+.filme5{
+    width: 260px;
+    padding: 50px;
+    position: relative;
+    top: 75px;
+    left: -200px;
+    transition: all 0.3s ease-out;
+}
+.filme6{
+    width: 270px;
+    padding: 50px;
+    position: relative;
+    top: 75px;
+    left: -250px;
+    transition: all 0.3s ease-out;
+}
+.filme7{
+    width: 240px;
+    padding: 50px;
+    position: relative;
+    top: 75px;
+    left: -315px;
+    transition: all 0.3s ease-out;
+}
+.filme8{
+    width: 260px;
+    padding: 50px;
+    position: relative;
+    top: 75px;
+    left: -380px;
+    transition: all 0.3s ease-out;
+}
+.filme9{
+    width: 270px;
+    padding: 50px;
+    position: relative;
+    top: 75px;
+    left: -450px;
     transition: all 0.3s ease-out;
 }
