@@ -14,11 +14,11 @@ body{
     width: 300px;
     padding: 30px;
 }
-.sair{
+.lancamento{
     color: aliceblue;
-    font-size: 30px;
+    font-size: 28px;
     position: absolute;
-    left: 1700px;
+    left: 1600px;
     top: 40px;
 }
 .series{
